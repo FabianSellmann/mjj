@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://musing-albattani-3f7b83.netlify.com/* http://www.minjoojang.com/:splat 301!
